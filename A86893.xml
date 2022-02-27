@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Edward Hungerfords vindication, for the surrendring of Malmsbury in Wiltshire to the Kings forces, after it was taken by Sir William Waller. As it was sent in a letter from the said Sir Edward Hungerford to a worthy member of the House of Commons; and now published for the satisfaction of all such as desire to be truly informed of the whole passages in the winning and loosing of Malmsbury, within lesse than a weekes time in Aprill last</title>
+            <author>Hungerford, Edward, Sir, 1596-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86893</idno>
+            <idno type="STC">Wing H3727</idno>
+            <idno type="STC">Thomason E100_30</idno>
+            <idno type="STC">ESTC R11501</idno>
+            <idno type="EEBO-CITATION">99859051</idno>
+            <idno type="PROQUEST">99859051</idno>
+            <idno type="VID">155874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155874)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E100[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Edward Hungerfords vindication, for the surrendring of Malmsbury in Wiltshire to the Kings forces, after it was taken by Sir William Waller. As it was sent in a letter from the said Sir Edward Hungerford to a worthy member of the House of Commons; and now published for the satisfaction of all such as desire to be truly informed of the whole passages in the winning and loosing of Malmsbury, within lesse than a weekes time in Aprill last</title>
+                  <author>Hungerford, Edward, Sir, 1596-1648.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>May 6. Printed for Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Signed and dated: "Bath. 28. Aprill 1643."; "Edward Hungerford".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Malmesbury (Wiltshire) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155874:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:155874:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>SIR EDWARD HVNGERFORDS VINDICATION, FOR THE SVRRENDRING of <hi>Malmsbury</hi> in <hi>Wiltsſhire</hi> to the Kings forces, after it was taken by SIR WILLIAM WALLER As it was ſent in a Letter from the ſaid Sir EDWARD HVNGERFORD to a worthy Member of the Houſe of COMMONS;</p>
+            <p>And now publiſhed for the ſatisfaction of all ſuch as deſire to be truly informed of the whole paſſages in the winning and looſing of <hi>MALMSBVRY,</hi> within leſſe then a weekes time in <hi>Aprill</hi> laſt</p>
+            <p>
+               <hi>LONDON. May</hi> 6. Printed for <hi>Francis Leach,</hi> Anno Dom. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155874:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb facs="tcp:155874:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>SIR EDWARD HVNGERFORDS Vindication, for the ſurren<g ref="char:EOLhyphen"/>dring of <hi>Malmsbury</hi> in <hi>Wiltſhire</hi> to the Kings forces, after it was taken by <hi>Sir William VValler.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have not heard that either the let<g ref="char:EOLhyphen"/>ter ſubſcribed by <hi>Sir William Waller, Sir Arthur Haſlerigge,</hi> and my ſelfe at <hi>Malmsbury,</hi> to certifie the Parlia<g ref="char:EOLhyphen"/>ment of the taking of that towne, or mine, (within a few dayes after) relating the ha<g ref="char:EOLhyphen"/>ſty deſerting of that towne unto the enemy; was e<g ref="char:EOLhyphen"/>ver read, or came to the view of either Houſe of Par<g ref="char:EOLhyphen"/>liament, Wherefore to avoid miſtakes or miſ-un<g ref="char:EOLhyphen"/>derſtandings, that may happen by Common fame, I
+<pb facs="tcp:155874:3"/>
+               <!-- PDF PAGE 39 -->ſhal<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> breifly give you the true relation both of tak<g ref="char:EOLhyphen"/>ing and deſerting of the ſaid Towne. Vpon the Tuſ<g ref="char:EOLhyphen"/>day ſenight before Eaſter, about one of the clock in the afternoone, <hi>Sir VVilliam VValler</hi> came before it, and at the fi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt onſet tooke the Suburbs, but the Towne held out longer, being fiercely aſſaulted by our men, all that afternoone, till about ten of the clock at night, and aſwell defended by the Enemy within then being weary on both ſides there was a pawſe for a few houres, after which our drums bea<g ref="char:EOLhyphen"/>ting an Allarum, the enemy began to treat, and up<g ref="char:EOLhyphen"/>on Wedneſday by ſeaven of the Clock in the mor<g ref="char:EOLhyphen"/>ning, Sir William did peaceably enter the Towne, where beſides three hundred priſoners that was ta<g ref="char:EOLhyphen"/>ken, there was an Iron Saker, ſome Muſquets, and ſome Pikes, and ſome few horſes taken, but little or no ammunition.</p>
+            <p>I was apointed to take the charge of that Towne and accordingly expected to have it left withall things for defence, but much buſineſſe happening, and <hi>Sir William Waller</hi> haſtening out of Towne up<g ref="char:EOLhyphen"/>on his deſigne towards <hi>Glouceſter,</hi> before any con<g ref="char:EOLhyphen"/>ſultation, could be had concerning the ſettlement thereof, upon Thurſday I went out of <hi>Malmeſbury</hi> to wards <hi>Tedbury,</hi> with <hi>Sir William Waller</hi> at what time the Town was left with more Priſoners then Soul<g ref="char:EOLhyphen"/>diers, without Ammunition and money, and by the way mentioning to <hi>Sir William Waller,</hi> the danger<g ref="char:EOLhyphen"/>ous condition of that Towne if he left not there a very conſiderable party, eſpecially in caſe he remov<g ref="char:EOLhyphen"/>ed to any remote place, without forceing the enemy firſt from <hi>Cirenceſter,</hi> who was there at that time ve<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:155874:3"/>
+               <!-- PDF PAGE 39 -->ſtrong both in horſe and foote, whereupon <hi>Sir William Waller</hi> did that evening at <hi>Tedbury</hi> order 3. Barrells of Pouder to be preſently ſent unto <hi>Mal<g ref="char:EOLhyphen"/>meſbury,</hi> and appointed <hi>Major Clyfton</hi> to repaire thi<g ref="char:EOLhyphen"/>ther, to joyne with <hi>Major Trayle,</hi> in the ordering of the forces there, that Captain <hi>Talbot</hi> with his Troop ſhould preſently go thither, to guard the Priſoners from thence the next day to <hi>Bath</hi> and <hi>Captaine Wal<g ref="char:EOLhyphen"/>don</hi> with his parcell of Dragooners, neare upon 20. to remaine at <hi>Malmeſbury,</hi> I conceiving that the ſaid <hi>Serjeant Major Clifton</hi> ſent thither by <hi>Sir Wil<g ref="char:EOLhyphen"/>liam Waller</hi> was a Commander able and fit to give direction and ſecure the Towne, I left all my forces with him at <hi>Malmeſbury,</hi> and went my ſelfe to <hi>Bath</hi> attended onely with my owne ſervants, ſpee<g ref="char:EOLhyphen"/>dily to ſend more Ammunition Men and Horſe, whereof there was not at <hi>Malmeſbury</hi> a ſufficient number for Scouts, as alſo to get money for the payment of the Gariſon at <hi>Malmeſbury,</hi> whilſt I was about this worke, had gotten my horſes together, made up two companies ready on their march to<g ref="char:EOLhyphen"/>wards <hi>Malmeſbury,</hi> with Ammunition which was wanting there, for Ordnance, and a ſupply of other Ammunition, newes was brought that <hi>Malmeſbury</hi> was abandoned, (and for ought I could underſtand) rather upon the conceipt then ſight of an enemy, the cauſe of this conceived to be, from an appre<g ref="char:EOLhyphen"/>henſion of the power of an enemy neare them; the ſmale force they had then in the Towne (not ex<g ref="char:EOLhyphen"/>ceeding one hundred and Twentie Souldiers) to make reſiſtance, the backwardens of the Country to come in to beare Armes or to aſſiſt with money
+<pb facs="tcp:155874:4"/>
+               <!-- PDF PAGE 40 -->who ſeemed very forward whileſt <hi>Sir William Waller</hi> was preſent but altered their minds ſo ſoone as they did ſee him with his Army, to be departed from them, my Souldiers generally diſcontented, that they had not Pillage as others who tooke leſſe paines (as they thought) and loſt no blood, over bur<g ref="char:EOLhyphen"/>thened with duties, being but a few in number, and howerly raiſed with Allarumes.</p>
+            <p>The Captaines at odds amongſt themſelves, Ma<g ref="char:EOLhyphen"/>jor <hi>Trayle</hi> that ſhould have reconciled all, not ſo carefull as he ought, Major <hi>Clifton</hi> that was ſent to joyne with him, gone away from thence to <hi>Bath,</hi> theſe two being the able Commanders, eſpecially truſted for the defence of the Towne, One of the Officers alſo amongſt them, did much increaſe their feares, and ſeeing falſe Alarumes, and after as their number decreaſed, did helpe to diſarme the remain<g ref="char:EOLhyphen"/>der; alſo two of the Captaines that ſhould have en<g ref="char:EOLhyphen"/>couraged them, told them that they were all but dead men, if they did not flie forth preſently, they being the firſt that ſhewed them the way by their example; after this the ſouldiers could not be ſtay<g ref="char:EOLhyphen"/>ed, butein ſpit of their Captaine &amp; Officers which were left, who ſought to keepe them in, they ranne away ſo that within a houre or two, there were ſcarce tenne ſouldiers left in the Towne, thus was Malmſebury left at eleven of the Clock upon Sat<g ref="char:EOLhyphen"/>terday at night, no enemy entring until ſeven of the clock next morning being Sunday.</p>
+            <p>At this preſent the enemie hath in Garriſon there, foure hundred foot, and <hi>Curſton</hi> his Troope of Horſe, Collonell <hi>Bawfeild,</hi> is appointed Gover<g ref="char:EOLhyphen"/>nour
+<pb facs="tcp:155874:4"/>
+               <!-- PDF PAGE 40 -->thereof, and this is the true relation of the winning and looſing of that Towne, within leſſe then the ſpace of a weeke, (as will be teſtified by many of very good credit) wherewith I ſhall en<g ref="char:EOLhyphen"/>treate you to acquaint the Houſe, that they may not ſuffer their ſervants in the Countrey to undergoe an ill oppinion, who have not deſerved the ſame, which is all that I have at this time, to recommend unto you, but that I am.</p>
+            <closer>
+               <dateline>Bath. <date>28. Aprill 1643.</date>
+               </dateline>
+               <signed>Your humble Servant. <hi>Edward Hungerford.</hi>
+               </signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
